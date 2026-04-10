@@ -1,5 +1,7 @@
 #include "computeMean.h"
 
+#include <iostream>
+
 
 
 vtkStandardNewMacro(ComputeMean);

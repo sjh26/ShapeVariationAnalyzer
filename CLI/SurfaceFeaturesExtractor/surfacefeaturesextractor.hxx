@@ -1,5 +1,6 @@
 #include "surfacefeaturesextractor.h"
 #include <vtkDoubleArray.h>
+#include <iostream>
 #include <sstream>
 #include <vtkObjectFactory.h>
 
